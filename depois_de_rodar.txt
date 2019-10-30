@@ -1,0 +1,4 @@
+todos na pasta root de bruteforce
+-> rodar heurísticos em R (arquivo .R)
+-> juntar os 4 arquivos de lcc "combine_lcc_ ..." (jupyter)
+-> arquivo com dataframe "make_stats_df" (jupyter)
