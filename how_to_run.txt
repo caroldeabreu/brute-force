@@ -1,0 +1,15 @@
+HOW TO EASILY RUN BRUTE FORCE 
+(requires igraph for python)
+
+->> inside a folder:
+       -> folders of networks that you want to run brute force attack named as "netxx"
+       -> bruteforce_v2.py (can be changed by editing the following file)
+       -> run_one_part_iteration.sh
+
+->> execute "run_one_part_iteration.sh" in a terminal:
+       -> must pass an integer from 1 to 4 as argument (ARG)
+       -> it runs 1/4 of comb(100,n)       
+
+bash run_one_part_iteration.sh ARG
+
+
